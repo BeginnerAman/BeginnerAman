@@ -1,37 +1,66 @@
-# 👋 Hello, I'm Aman!
-
-## 🚀 About Me
-I'm a passionate developer who loves creating web applications and solving real-world problems through code. I enjoy learning new technologies and contributing to open source projects.
-
-## 💻 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Python 
-- **Tools:** Git, GitHub, VS Code
-- **Currently Learning:** Full Stack Development
-
-## 🛠️ My Projects
-
-### 🔥 Featured Projects
-- **[Movie Recommendation System](https://github.com/BeginnerAman/movie_recommendation)** - AI-based movie suggestions
-- **[Price Comparison Tool](https://github.com/BeginnerAman/compare_price)** - Compare prices across platforms
-- **[Milk Price Calculator](https://github.com/BeginnerAman/Milk_Price_Calculator)** - Daily milk price calculator
-- **[Happy Birthday Website](https://github.com/BeginnerAman/Happy_Birthday-Neha)** - Beautiful birthday wishes
-
-## 📊 GitHub Analytics
+<h1 align="center">Hi 👋, I'm Aman</h1>
+<h3 align="center">A passionate developer and lifelong learner</h3>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeginnerAman&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeginnerAman&layout=compact&theme=radical" />
+  <img src="https://github.com/BeginnerAman/BeginnerAman/blob/main/cover.png" alt="cover" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeginnerAman&theme=radical" />
-</p>
-
-
-## 📈 Contribution Graph
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=BeginnerAman&theme=react-dark)
 
 ---
 
-⭐️ From [BeginnerAman](https://github.com/BeginnerAman)
+## 🚀 About Me
+
+- 🌱 I am currently learning and working with **modern web development, automation & DevOps**
+- 💬 Ask me about **Frontend, Backend, Open Source Contributions, and Tech Communities**
+- 🧑‍💻 I enjoy building side projects and collaborating with people on GitHub
+- 📫 How to reach me: [Email](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
+- ⚡ Fun fact: I believe in continuous improvement and automating the boring stuff.
+
+---
+
+## 🛠️ Skills
+
+![Languages](https://img.shields.io/badge/code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+---
+
+## 🌟 Projects
+
+| Project | Description | Tech Stack | Repo |
+|---|---|---|---|
+| **CoolApp** | An app that solves real-world problems | React, Node.js, MongoDB | [GitHub](https://github.com/BeginnerAman/CoolApp) |
+| **AutomationScripts** | Automating boring tasks | Python | [GitHub](https://github.com/BeginnerAman/AutomationScripts) |
+| **Portfolio** | My personal portfolio website | HTML, CSS, JS | [GitHub](https://github.com/BeginnerAman/Portfolio) |
+
+*Add your top projects with short descriptions and links above.*
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BeginnerAman&show_icons=true&theme=github_dark" alt="BeginnerAman's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeginnerAman&theme=github-dark-blue" alt="GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeginnerAman&layout=compact&theme=github_dark&langs_count=8"/>
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">Thank you for visiting my profile! ⭐️</p>
