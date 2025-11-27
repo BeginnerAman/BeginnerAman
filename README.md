@@ -12,9 +12,8 @@
 - 🌱 I am currently learning and working with **modern web development, automation & DevOps**
 - 💬 Ask me about **Frontend, Backend, Open Source Contributions, and Tech Communities**
 - 🧑‍💻 I enjoy building side projects and collaborating with people on GitHub
-- 📫 How to reach me: [Email](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
 - ⚡ Fun fact: I believe in continuous improvement and automating the boring stuff.
-
+<!-- - 📫 How to reach me: [Email](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-linkedin)  -->
 ---
 
 ## 🛠️ Skills
@@ -43,7 +42,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BeginnerAman&show_icons=true&theme=github_dark" alt="BeginnerAman's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeginnerAman&theme=github-dark-blue" alt="GitHub streak"/>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeginnerAman&theme=github-dark-blue" alt="GitHub streak"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeginnerAman&layout=compact&theme=github_dark&langs_count=8"/>
 </p>
 
