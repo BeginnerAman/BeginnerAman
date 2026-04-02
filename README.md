@@ -39,25 +39,12 @@ TEMPLATE VARIABLES TO REPLACE:
 <!-- One-liner tagline — THE most important line on your profile -->
 ### *"I don't just write code — I engineer experiences."*
 
----
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
      SECTION 2: ABOUT ME
      Purpose: Humanise the profile. 3–4 bullets max. No life stories.
      Psychology: Quick scan, relatability, differentiator.
      ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🧑‍💻 About Me
-
-```python
-class Aman:
-    name       = "Aman Vishwakarma"
-    philosophy = "Ship fast. Learn faster. Never settle for ugly UI."
-    fun_fact   = "I rebuilt my entire JS project in Flask because Streamlit felt 'not professional enough' 😄"
-```
-
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
      SECTION 3: SKILLS & TECH STACK
@@ -113,7 +100,6 @@ class Aman:
 
 
 
----
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
      SECTION 6: GROWTH & LEARNING
@@ -122,7 +108,7 @@ class Aman:
      ═══════════════════════════════════════════════════════════════════════════ -->
 
 
----
+
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
      SECTION 7: CONNECT
@@ -136,23 +122,6 @@ class Aman:
      Purpose: Make you memorable. Recruiters remember stories, not skills lists.
      Psychology: Pattern interrupt. Humanise the profile.
      ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 💡 Developer Philosophy
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   "A good tool should feel obvious to use.              │
-│    A great tool should feel like it was made for you."  │
-│                                                         │
-│                           — Aman Vishwakarma            │
-└─────────────────────────────────────────────────────────┘
-```
-
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
      SECTION 9 (OPTIONAL): CONTRIBUTION SNAKE GITHUB ACTION SETUP
