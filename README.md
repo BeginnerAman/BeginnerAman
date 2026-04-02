@@ -31,7 +31,7 @@ TEMPLATE VARIABLES TO REPLACE:
 <div align="center">
 
 <!-- Hero Banner Image — replace src with your own banner or use a generator like artworks.io -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aman%20Vishwakarma&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%20Engineer%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aman%20Vishwakarma&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20AiDeveloper%20%7C%20ML%20Engineer%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Dynamic Typing Animation — customize lines[] to your own strings -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=I+build+things+that+solve+real+problems.;Full+Stack+%2B+Machine+Learning+Engineer.;Turning+ideas+into+polished+products.;Open+to+exciting+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
