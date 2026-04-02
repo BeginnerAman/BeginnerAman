@@ -53,7 +53,7 @@ TEMPLATE VARIABLES TO REPLACE:
      ═══════════════════════════════════════════════════════════════════════════ -->
 
 
----
+
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
      SECTION 4: GITHUB STATS
@@ -62,35 +62,7 @@ TEMPLATE VARIABLES TO REPLACE:
      TIP: Arrange in 2-column layout for visual balance.
      ═══════════════════════════════════════════════════════════════════════════ -->
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<!-- Row 1: Stats + Streak side by side -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amanvishwakarma0327&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=amanvishwakarma0327&theme=midnight-purple&hide_border=true&background=0d1117&stroke=A78BFA&ring=7C3AED&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=c9d1d9"/>
-
-<br/><br/>
-
-<!-- Row 2: Top languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanvishwakarma0327&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8"/>
-
-</div>
-
-<br/>
-
-<!-- Contribution Snake Animation (runs via GitHub Actions — setup instructions below) -->
-<!-- SETUP: Create .github/workflows/snake.yml in your repo — see Section 9 below -->
-<div align="center">
-  <img src="https://github.com/amanvishwakarma0327/amanvishwakarma0327/blob/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%"/>
-</div>
-
-<!-- ⚠️ Snake animation requires a GitHub Actions workflow. Template at bottom of this file. -->
-
-<br/>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
      SECTION 5: FEATURED PROJECTS
