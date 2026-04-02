@@ -39,28 +39,6 @@ TEMPLATE VARIABLES TO REPLACE:
 <!-- One-liner tagline — THE most important line on your profile -->
 ### *"I don't just write code — I engineer experiences."*
 
-<br/>
-
-<!-- Quick identity badges -->
-<a href="https://linkedin.com/in/[YOUR_LINKEDIN]">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:[YOUR_EMAIL]">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://amanvishwakarma0327.github.io/Tools/">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-&nbsp;
-<!-- Profile views counter — auto-updates -->
-<img src="https://komarev.com/ghpvc/?username=amanvishwakarma0327&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-</div>
-
-<br/>
-
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
@@ -74,24 +52,10 @@ TEMPLATE VARIABLES TO REPLACE:
 ```python
 class Aman:
     name       = "Aman Vishwakarma"
-    location   = "Lucknow, India 🇮🇳"
-    role       = "Full Stack Developer + ML/DL Engineer"
-    currently  = ["Building production-grade Flask apps",
-                  "Deep-diving into Neural Networks & Backprop",
-                  "Crafting tools people actually use"]
     philosophy = "Ship fast. Learn faster. Never settle for ugly UI."
     fun_fact   = "I rebuilt my entire JS project in Flask because Streamlit felt 'not professional enough' 😄"
 ```
 
-<br/>
-
-- 🔭 &nbsp; Currently building **AI-powered web tools** and studying **Deep Learning from scratch**
-- 🌱 &nbsp; Learning: **MLPs → Backprop → Activation Functions → CNNs**
-- 🛠️ &nbsp; Side projects: **PixelPress** (image compressor) & **ToolHub** (17-tool Flask suite)
-- 💡 &nbsp; I care deeply about **UX polish, performance, and clean architecture**
-- ⚡ &nbsp; Fun fact: bilingual thinker — code in English, debug in Hinglish
-
-<br/>
 
 ---
 
@@ -101,42 +65,6 @@ class Aman:
      Psychology: Pattern recognition, authority signals.
      ═══════════════════════════════════════════════════════════════════════════ -->
 
-## ⚡ Tech Stack
-
-<!-- Languages -->
-**Languages**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-<!-- Frameworks & Libraries -->
-**Frameworks & Libraries**
-
-<p>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-<!-- Tools -->
-**Tools & Environment**
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
-<br/>
 
 ---
 
@@ -183,22 +111,7 @@ class Aman:
      Psychology: Portfolio proof, problem → solution framing, curiosity via metrics.
      ═══════════════════════════════════════════════════════════════════════════ -->
 
-## 🚀 Featured Projects
 
-<div align="center">
-
-| Project | Description | Stack | Status |
-|---------|-------------|-------|--------|
-| [**🗜️ PixelPress**](https://github.com/amanvishwakarma0327/pixelpress) | Production-grade image compression app with batch processing, format conversion & ZIP download. Dark UI, drag-and-drop UX. | `Flask` `Pillow` `JS` | ✅ Live |
-| [**🧰 ToolHub**](https://amanvishwakarma0327.github.io/Tools/) | 17-tool multi-utility web suite across 6 categories (PDF, Image, Text, Security, Data, Web). Full dark-themed sidebar layout. | `Flask` `Python` `HTML/CSS` | ✅ Live |
-| [**🧠 DL from Scratch**](https://github.com/amanvishwakarma0327) | Documenting my deep learning journey — perceptrons → MLPs → CNNs, built and explained from first principles. | `Python` `NumPy` `PyTorch` | 🔄 Ongoing |
-| [**[YOUR PROJECT 4]**](#) | [Short impactful description — problem solved + outcome] | `Stack` | 🔄 WIP |
-
-</div>
-
-> 💬 *All projects built with a focus on real UX, not just functionality. If it doesn't look good, it's not done.*
-
-<br/>
 
 ---
 
@@ -208,30 +121,6 @@ class Aman:
      Psychology: Aspiration + trajectory — shows where you're headed.
      ═══════════════════════════════════════════════════════════════════════════ -->
 
-## 📈 Currently Growing
-
-```
-Deep Learning Roadmap                                          2025 → 2026
-─────────────────────────────────────────────────────────────────────────
-  ✅  Perceptron & Biological Neuron model
-  ✅  Weights, Bias, Activation concept
-  🔄  Multi-Layer Perceptrons (MLPs)
-  ⏳  Backpropagation & Gradient Descent
-  ⏳  Activation Functions (ReLU, Sigmoid, Softmax)
-  ⏳  CNNs for image recognition
-  ⏳  Building a mini neural net from scratch (no framework)
-  ⏳  Deploying ML models via Flask REST APIs
-─────────────────────────────────────────────────────────────────────────
-  Philosophy: Understand deeply. Build fast. Document everything.
-```
-
-**This year's goals:**
-- 🧠 Complete deep learning foundation → build first original ML project
-- 🌐 Contribute to 3+ open source Python/ML projects  
-- 📝 Start writing technical blogs (dev.to / Medium)
-- 🏗️ Expand ToolHub to 30+ tools
-
-<br/>
 
 ---
 
@@ -241,37 +130,6 @@ Deep Learning Roadmap                                          2025 → 2026
      Psychology: Reduce effort = more inbound.
      ═══════════════════════════════════════════════════════════════════════════ -->
 
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/[YOUR_LINKEDIN]">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:[YOUR_EMAIL]">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://twitter.com/[YOUR_TWITTER]">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://amanvishwakarma0327.github.io/Tools/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-> 📬 Open to **freelance projects**, **internships**, and **collaboration** on anything involving Python, Flask, or ML.
-> 
-> *Best way to reach me: LinkedIn DM or Email. I respond within 24h.*
-
-</div>
-
-<br/>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
      SECTION 8: FUN / PERSONALITY
@@ -293,19 +151,6 @@ Deep Learning Roadmap                                          2025 → 2026
 └─────────────────────────────────────────────────────────┘
 ```
 
-</div>
-
-**When I'm not coding:**
-- 📚 Reading about how neural networks actually learn (not just how to use them)
-- 🎯 Thinking about what makes UI feel *premium* vs just functional
-- ☕ Drinking chai and judging poorly designed apps
-
-**My coding principles:**
-- ✦ Ship something real, not something perfect
-- ✦ Ugly UI = half the work is still left
-- ✦ If it can't be explained simply, it isn't understood yet
-
-<br/>
 
 ---
 
