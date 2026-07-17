@@ -51,12 +51,34 @@ Rather than showing simple activity charts, here is the concrete work I have don
 
 ---
 
-### 📊 GitHub Stats & Insights
+### 📂 Featured Creations
 
-<div align="center">
-  <!-- Handcrafted Cyberpunk HUD Dashboard (100% Stable & Self-Hosted) -->
-  <img src="./hud-dashboard.svg" alt="HUD Dashboard Console" width="100%" />
-</div>
+<table width="100%" border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💬 Real-Time Chat App</h4>
+      <p>Live messaging platform with real-time delivery and instant notifications.</p>
+      <a href="https://beginneraman.github.io/real-time-chat-app/" target="_blank">🚀 Live Demo</a> &bull; <a href="https://github.com/BeginnerAman/real-time-chat-app" target="_blank">💻 Source Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏨 LuxeStay Hotel</h4>
+      <p>A premium hotel booking web application featuring a polished UI and reservation system.</p>
+      <a href="https://luxe-stay-hotel-weld.vercel.app" target="_blank">🚀 Live Demo</a> &bull; <a href="https://github.com/BeginnerAman/LuxeStay-Hotel" target="_blank">💻 Source Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔥 Roast & Reveal</h4>
+      <p>A fun, interactive game designed to playfully roast your friends and reveal hilarious facts.</p>
+      <a href="https://beginneraman.github.io/roast-and-reveal/" target="_blank">🚀 Live Demo</a> &bull; <a href="https://github.com/BeginnerAman/roast-and-reveal" target="_blank">💻 Source Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⌨️ Speed Typer Pro</h4>
+      <p>A typing game built to challenge and measure your keystroke accuracy and speed.</p>
+      <a href="https://beginneraman.github.io/speed-typer-pro/" target="_blank">🚀 Live Demo</a> &bull; <a href="https://github.com/BeginnerAman/speed-typer-pro" target="_blank">💻 Source Code</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
