@@ -62,6 +62,11 @@ Here are a few highlights from my portfolio of **26+ public repositories** (all 
 ### 📊 GitHub Stats
 
 <div align="center">
+  <!-- 3D Contribution Graph -->
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=BeginnerAman&theme=tokyonight" alt="3D Contribution Graph" width="100%" />
+  
+  <br/><br/>
+
   <table border="0">
     <tr>
       <td>
@@ -92,6 +97,11 @@ Here are a few highlights from my portfolio of **26+ public repositories** (all 
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  
+  <br/><br/>
+  
+  <!-- Visitor Counter Badge -->
+  <img src="https://profile-counter.glitch.me/BeginnerAman/count.svg" alt="Profile Views" />
 </div>
 
 <br/>
