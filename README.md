@@ -1,139 +1,102 @@
-<!--
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                     GITHUB PROFILE README — AMAN VISHWAKARMA                ║
-║           Template Version 1.0 | Designed for maximum first impression      ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-
-HOW TO USE THIS TEMPLATE:
-  1. Replace all [PLACEHOLDER] values with your own info
-  2. Update the username in all shield/stats URLs (replace "amanvishwakarma0327")
-  3. Swap project links/descriptions in the Projects section
-  4. Customize colors via the `color=` param in shields (hex without #)
-  5. Enable/disable optional sections as needed
-
-TEMPLATE VARIABLES TO REPLACE:
-  → YOUR_USERNAME       = your GitHub username
-  → YOUR_NAME          = your display name
-  → YOUR_TAGLINE       = one powerful line that defines you
-  → YOUR_TITLE         = e.g., "Full Stack Developer | ML Engineer"
-  → YOUR_LINKEDIN      = your LinkedIn profile URL
-  → YOUR_EMAIL         = your contact email
-  → YOUR_TWITTER       = your Twitter/X handle (optional)
-  → YOUR_WEBSITE       = your portfolio URL (optional)
--->
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     SECTION 1: HERO BANNER
-     Purpose: Create a powerful first impression. Visitors decide in 5 seconds.
-     Psychology: Visual anchoring, name recognition, instant niche clarity.
-     ═══════════════════════════════════════════════════════════════════════════ -->
+# 🚀 Hey there! I'm Aman Vishwakarma (BeginnerAman)
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Aman%20Vishwakarma&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Idea-Driven%20Developer%20%7C%20AI-Collaborative%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Ideating+and+building+products+rapidly.;Leveraging+AI+to+turn+concepts+into+code.;Creator+of+26%2B+open-source+projects.;Welcome+to+my+creative+playground!+%E2%9C%A8)](https://git.io/typing-svg)
+  
+  ### 🌐 [Explore My Interactive Live Portfolio](https://beginneraman.github.io/Portfolio/)
+</div>
 
-<!-- Hero Banner Image — replace src with your own banner or use a generator like artworks.io -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aman%20Vishwakarma&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20AiDeveloper%20%7C%20ML%20Engineer%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+---
 
-<!-- Dynamic Typing Animation — customize lines[] to your own strings -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=I+build+things+that+solve+real+problems.;Full+Stack+%2B+Machine+Learning+Engineer.;Turning+ideas+into+polished+products.;Open+to+exciting+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+### 👤 About Me
+I am an **idea-first developer** passionate about bringing creative, functional concepts to life at the speed of thought. Rather than getting bogged down in boilerplate, I focus on design, architecture, and user experience, collaborating with **AI copilots** to write code and build applications rapidly. 
 
-<!-- One-liner tagline — THE most important line on your profile -->
-### *"I don't just write code — I engineer experiences."*
+- 💡 **My Philosophy:** Ideas are cheap; execution is everything. I ideate, design, and orchestrate. AI helps me code and deliver.
+- 🛠️ **What I've Built:** A collection of **26+ public projects** spanning real-time communication platforms, interactive games, utilities, and sleek web interfaces.
+- ⚡ **Always Learning:** Constantly experimenting with new web technologies, AI tools, and architectural patterns.
 
+---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     SECTION 2: ABOUT ME
-     Purpose: Humanise the profile. 3–4 bullets max. No life stories.
-     Psychology: Quick scan, relatability, differentiator.
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     SECTION 3: SKILLS & TECH STACK
-     Purpose: Recruiters scan this. Icons make it glanceable.
-     Psychology: Pattern recognition, authority signals.
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
-
-
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     SECTION 4: GITHUB STATS
-     Purpose: Social proof. Numbers talk.
-     Psychology: Authority + credibility via data.
-     TIP: Arrange in 2-column layout for visual balance.
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
-
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     SECTION 5: FEATURED PROJECTS
-     Purpose: Show, don't tell. Best 3–4 projects only.
-     Psychology: Portfolio proof, problem → solution framing, curiosity via metrics.
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
-
-
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     SECTION 6: GROWTH & LEARNING
-     Purpose: Signal intellectual growth. Recruiters love hungry learners.
-     Psychology: Aspiration + trajectory — shows where you're headed.
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
-
-
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     SECTION 7: CONNECT
-     Purpose: Make it frictionless to reach you.
-     Psychology: Reduce effort = more inbound.
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     SECTION 8: FUN / PERSONALITY
-     Purpose: Make you memorable. Recruiters remember stories, not skills lists.
-     Psychology: Pattern interrupt. Humanise the profile.
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     SECTION 9 (OPTIONAL): CONTRIBUTION SNAKE GITHUB ACTION SETUP
-     Purpose: Instructions — delete this section before publishing if desired.
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
-<!--
-
-╔══ SNAKE ANIMATION SETUP ═══════════════════════════════════════════╗
-║                                                                     ║
-║  1. Create file: .github/workflows/snake.yml                        ║
-║  2. Paste this content:                                             ║
-║                                                                     ║
-║  name: generate animation                                           ║
-║  on:                                                                ║
-║    schedule: [ cron: "0 */12 * * *" ]                              ║
-║    workflow_dispatch:                                               ║
-║    push: { branches: [main] }                                       ║
-║                                                                     ║
-║  jobs:                                                              ║
-║    generate:                                                        ║
-║      runs-on: ubuntu-latest                                         ║
-║      steps:                                                         ║
-║        - uses: Platane/snk@v3                                       ║
-║          with:                                                      ║
-║            github_user_token: ${{ secrets.GITHUB_TOKEN }}          ║
-║            outputs: |                                               ║
-║              dist/github-contribution-grid-snake.svg               ║
-║              dist/github-contribution-grid-snake-dark.svg           ║
-║              options_xmas: true                                     ║
-║        - uses: crazy-max/ghaction-github-pages@v3                  ║
-║          with: { target_branch: output, build_dir: dist }          ║
-║          env: { GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} }        ║
-╚═════════════════════════════════════════════════════════════════════╝
-
--->
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+### 💻 Tech Stack & Tooling
 
 <div align="center">
-  <sub>Built with purpose. Designed with intent. ⚡ Last updated April 2025.</sub>
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  
+  <br/>
+  
+  <!-- Deployment & Tools -->
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github-copilot&logoColor=white" />
+</div>
+
+---
+
+### 🌟 Featured AI-Collaborative Projects
+
+Here are a few highlights from my portfolio of **26+ public repositories** (all live previews are available on my [portfolio site](https://beginneraman.github.io/Portfolio/)):
+
+#### 💬 Chat & Messaging
+*   **[Real-Time Chat App](https://github.com/BeginnerAman/real-time-chat-app)** — Live messaging platform with real-time delivery and instant notifications.
+*   **[LuxeStay Hotel](https://github.com/BeginnerAman/LuxeStay-Hotel)** — A premium hotel booking web application featuring a polished UI and reservation system.
+
+#### 🎮 Interactive Games
+*   **[Roast & Reveal](https://github.com/BeginnerAman/roast-and-reveal)** — A fun, interactive game designed to playfully roast your friends and reveal hilarious facts.
+*   **[Speed Typer Pro](https://github.com/BeginnerAman/speed-typer-pro)** — A typing game built to challenge and measure your keystroke accuracy and speed.
+
+#### 🛠️ Utility & Core Projects
+*   **[Dairy Price Calculator](https://github.com/BeginnerAman/dairy-price-calculator)** — An efficient rate computation tool designed for milk pricing and dairy utilities.
+*   **[SQL Core Engine](https://github.com/BeginnerAman/sql-core-engine)** — A query processing engine built to experiment with database analytics.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=BeginnerAman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeginnerAman&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" height="150" />
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeginnerAman&theme=tokyonight&hide_border=true" width="100%" />
+</div>
+
+---
+
+### 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://beginneraman.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6C5CE7?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/BeginnerAman" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+  <sub>Built with purpose. Co-engineered with AI. ✨</sub>
 </div>
