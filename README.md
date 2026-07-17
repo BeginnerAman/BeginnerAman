@@ -54,27 +54,8 @@ Rather than showing simple activity charts, here is the concrete work I have don
 ### 📊 GitHub Stats & Insights
 
 <div align="center">
-  <!-- Customized TokyoNight/Cyberpunk Theme (Electric Cyan line + Dark Background) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeginnerAman&bg_color=0a0a0f&color=00f0ff&line=6c5ce7&point=00f0ff&text=8b8b9e" alt="GitHub Activity Graph" width="100%" />
-  
-  <br/><br/>
-
-  <!-- Customized Github Readme Stats Cards matching Portfolio colors -->
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=BeginnerAman&show_icons=true&bg_color=0a0a0f&title_color=00f0ff&text_color=8b8b9e&icon_color=6c5ce7&border_color=24243e&count_private=true" height="150" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=BeginnerAman&layout=compact&bg_color=0a0a0f&title_color=00f0ff&text_color=8b8b9e&border_color=24243e" height="150" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  <!-- Streak Stats Card matching Theme -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeginnerAman&background=0a0a0f&ring=6c5ce7&fire=00f0ff&currstat=00f0ff&stroke=24243e&sideStat=8b8b9e&sideValue=8b8b9e&hide_border=true" width="100%" />
+  <!-- Handcrafted Cyberpunk HUD Dashboard (100% Stable & Self-Hosted) -->
+  <img src="./hud-dashboard.svg" alt="HUD Dashboard Console" width="100%" />
 </div>
 
 ---

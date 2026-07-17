@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" width="100%" height="100%" style="font-family: 'Fira Code', 'Courier New', monospace;">
+  <!-- Definitions for Gradients and Glow Filters -->
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050508" />
+      <stop offset="50%" stop-color="#0f0926" />
+      <stop offset="100%" stop-color="#02141a" />
+    </linearGradient>
+
+    <!-- Neon Glow Filter -->
+    <filter id="glow-cyan" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="glow-purple" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <!-- Grid Pattern -->
+    <pattern id="dot-grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#16213e" opacity="0.4" />
+    </pattern>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="100%" height="100%" fill="url(#bg-gradient)" rx="16" stroke="#00f0ff" stroke-width="1.5" stroke-opacity="0.3" />
+  
+  <!-- Dot Grid Overlay -->
+  <rect width="100%" height="100%" fill="url(#dot-grid)" rx="16" />
+
+  <!-- Cyberpunk Tech Corner Elements -->
+  <!-- Top-Left -->
+  <path d="M 12,30 L 12,12 L 30,12" fill="none" stroke="#00f0ff" stroke-width="2.5" filter="url(#glow-cyan)" />
+  <circle cx="12" cy="12" r="2" fill="#00f0ff" />
+  
+  <!-- Top-Right -->
+  <path d="M 788,30 L 788,12 L 770,12" fill="none" stroke="#00f0ff" stroke-width="2.5" filter="url(#glow-cyan)" />
+  <circle cx="788" cy="12" r="2" fill="#00f0ff" />
+  
+  <!-- Bottom-Left -->
+  <path d="M 12,390 L 12,408 L 30,408" fill="none" stroke="#00f0ff" stroke-width="2.5" filter="url(#glow-cyan)" />
+  <circle cx="12" cy="408" r="2" fill="#00f0ff" />
+  
+  <!-- Bottom-Right -->
+  <path d="M 788,390 L 788,408 L 770,408" fill="none" stroke="#00f0ff" stroke-width="2.5" filter="url(#glow-cyan)" />
+  <circle cx="788" cy="408" r="2" fill="#00f0ff" />
+
+  <!-- Decorative HUD Horizontal Lines -->
+  <line x1="40" y1="35" x2="760" y2="35" stroke="#6c5ce7" stroke-width="1" stroke-opacity="0.4" />
+  <line x1="40" y1="385" x2="760" y2="385" stroke="#6c5ce7" stroke-width="1" stroke-opacity="0.4" />
+
+  <!-- HUD Terminal Header -->
+  <text x="45" y="26" fill="#00f0ff" font-size="12" font-weight="700" letter-spacing="2" filter="url(#glow-cyan)">[ SYSTEM STATUS: ACTIVE ]</text>
+  <text x="430" y="26" fill="#a29bfe" font-size="11" font-weight="500" letter-spacing="1">HOST_ID: BEGINNER_AMAN // NETWORK: STABLE</text>
+  <circle cx="410" cy="22" r="4" fill="#00ffb3" />
+
+  <!-- Crosshair Decors -->
+  <path d="M 400,200 L 400,220 M 390,210 L 410,210" fill="none" stroke="#6c5ce7" stroke-width="1" stroke-opacity="0.2" />
+
+  <!-- ================= LEFT COLUMN: CAPABILITIES ================= -->
+  <text x="45" y="70" fill="#a29bfe" font-size="15" font-weight="700" letter-spacing="1" filter="url(#glow-purple)">CORE OPERATIONS</text>
+  
+  <!-- Capability 1 -->
+  <text x="45" y="105" fill="#e8e8ed" font-size="12" font-weight="600">Product Ideation &amp; Logic</text>
+  <text x="320" y="105" fill="#00f0ff" font-size="12" font-weight="700">100%</text>
+  <rect x="45" y="115" width="310" height="8" rx="4" fill="#12121a" stroke="#1b1b2f" />
+  <rect x="45" y="115" width="310" height="8" rx="4" fill="#00f0ff" filter="url(#glow-cyan)" />
+
+  <!-- Capability 2 -->
+  <text x="45" y="155" fill="#e8e8ed" font-size="12" font-weight="600">AI-Collaborative Prototyping</text>
+  <text x="320" y="155" fill="#00f0ff" font-size="12" font-weight="700">100%</text>
+  <rect x="45" y="165" width="310" height="8" rx="4" fill="#12121a" stroke="#1b1b2f" />
+  <rect x="45" y="165" width="310" height="8" rx="4" fill="#00f0ff" filter="url(#glow-cyan)" />
+
+  <!-- Capability 3 -->
+  <text x="45" y="205" fill="#e8e8ed" font-size="12" font-weight="600">Rapid Development Cycles</text>
+  <text x="327" y="205" fill="#00f0ff" font-size="12" font-weight="700">95%</text>
+  <rect x="45" y="215" width="310" height="8" rx="4" fill="#12121a" stroke="#1b1b2f" />
+  <rect x="45" y="215" width="294.5" height="8" rx="4" fill="#00f0ff" filter="url(#glow-cyan)" />
+
+  <!-- Capability 4 -->
+  <text x="45" y="255" fill="#e8e8ed" font-size="12" font-weight="600">UI/UX Design &amp; Architecture</text>
+  <text x="327" y="255" fill="#00f0ff" font-size="12" font-weight="700">90%</text>
+  <rect x="45" y="265" width="310" height="8" rx="4" fill="#12121a" stroke="#1b1b2f" />
+  <rect x="45" y="265" width="279" height="8" rx="4" fill="#00f0ff" filter="url(#glow-cyan)" />
+
+  <!-- Decorative Circle Dial -->
+  <circle cx="95" cy="330" r="30" fill="none" stroke="#6c5ce7" stroke-width="2" stroke-dasharray="140, 50" stroke-opacity="0.5" />
+  <circle cx="95" cy="330" r="22" fill="none" stroke="#00f0ff" stroke-width="1.5" stroke-dasharray="90, 40" filter="url(#glow-cyan)" />
+  <text x="145" y="325" fill="#e8e8ed" font-size="11" font-weight="600">SYSTEM FREQUENCY</text>
+  <text x="145" y="342" fill="#00f0ff" font-size="13" font-weight="700" filter="url(#glow-cyan)">2.48 GHz [OVERCLOCKED]</text>
+
+  <!-- Vertical HUD Splitter -->
+  <line x1="400" y1="60" x2="400" y2="360" stroke="#6c5ce7" stroke-width="1.5" stroke-opacity="0.3" stroke-dasharray="8, 6" />
+
+  <!-- ================= RIGHT COLUMN: REPO STATS ================= -->
+  <text x="435" y="70" fill="#a29bfe" font-size="15" font-weight="700" letter-spacing="1" filter="url(#glow-purple)">DEPLOYED REPOSITORIES</text>
+
+  <!-- Metric 1: Chat Suite -->
+  <g transform="translate(435, 95)">
+    <rect width="320" height="40" fill="#0a0a0f" fill-opacity="0.6" rx="6" stroke="#1b1b2f" stroke-width="1"/>
+    <text x="15" y="24" fill="#e8e8ed" font-size="12" font-weight="600">💬 Deployed Chat Platforms</text>
+    <text x="280" y="25" fill="#00f0ff" font-size="14" font-weight="700" filter="url(#glow-cyan)">05</text>
+  </g>
+
+  <!-- Metric 2: Games -->
+  <g transform="translate(435, 145)">
+    <rect width="320" height="40" fill="#0a0a0f" fill-opacity="0.6" rx="6" stroke="#1b1b2f" stroke-width="1"/>
+    <text x="15" y="24" fill="#e8e8ed" font-size="12" font-weight="600">🎮 Interactive Game Engines</text>
+    <text x="280" y="25" fill="#00f0ff" font-size="14" font-weight="700" filter="url(#glow-cyan)">08</text>
+  </g>
+
+  <!-- Metric 3: Utilities -->
+  <g transform="translate(435, 195)">
+    <rect width="320" height="40" fill="#0a0a0f" fill-opacity="0.6" rx="6" stroke="#1b1b2f" stroke-width="1"/>
+    <text x="15" y="24" fill="#e8e8ed" font-size="12" font-weight="600">📊 Business &amp; Utility Tools</text>
+    <text x="280" y="25" fill="#00f0ff" font-size="14" font-weight="700" filter="url(#glow-cyan)">08</text>
+  </g>
+
+  <!-- Metric 4: Web Portals -->
+  <g transform="translate(435, 245)">
+    <rect width="320" height="40" fill="#0a0a0f" fill-opacity="0.6" rx="6" stroke="#1b1b2f" stroke-width="1"/>
+    <text x="15" y="24" fill="#e8e8ed" font-size="12" font-weight="600">🌐 Deployed Web Applications</text>
+    <text x="280" y="25" fill="#00f0ff" font-size="14" font-weight="700" filter="url(#glow-cyan)">05</text>
+  </g>
+
+  <!-- Total Summary Bar -->
+  <g transform="translate(435, 305)">
+    <rect width="320" height="55" fill="rgba(108, 92, 231, 0.08)" rx="8" stroke="#6c5ce7" stroke-width="1.5" stroke-opacity="0.6" />
+    <text x="20" y="32" fill="#a29bfe" font-size="13" font-weight="700">TOTAL SYSTEM OUTPUT</text>
+    <text x="245" y="36" fill="#00f0ff" font-size="20" font-weight="800" filter="url(#glow-cyan)">26 REPOS</text>
+  </g>
+</svg>
