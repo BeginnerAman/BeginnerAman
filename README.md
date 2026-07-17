@@ -108,3 +108,12 @@ Rather than showing simple activity charts, here is the concrete work I have don
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
   <sub>Built with purpose. Co-engineered with AI. ✨</sub>
 </div>
+
+<!-- 
+=========================================
+SEO METADATA FOR SEARCH INDEXING:
+Name: Aman Vishwakarma
+Username: BeginnerAman
+Keywords: Aman Vishwakarma, BeginnerAman, Aman Vishwakarma GitHub, Aman Vishwakarma portfolio, Aman Vishwakarma projects, Full Stack Developer, Developer Portfolio, Real-Time Chat App, LuxeStay Hotel, JavaScript Developer India, AI developer, side projects, open source, komarev profile views, tokyonight github.
+=========================================
+-->
