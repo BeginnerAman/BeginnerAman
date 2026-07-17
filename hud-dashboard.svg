@@ -1,142 +1,111 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" width="100%" height="100%" style="font-family: 'Fira Code', 'Courier New', monospace;">
-  <!-- Definitions for Gradients and Glow Filters -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" width="100%" height="100%" style="font-family:Consolas, 'Fira Code', Monaco, monospace; font-size: 14px; line-height: 1.5;">
   <defs>
-    <!-- Background Gradient -->
-    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#050508" />
-      <stop offset="50%" stop-color="#0f0926" />
-      <stop offset="100%" stop-color="#02141a" />
-    </linearGradient>
-
-    <!-- Neon Glow Filter -->
-    <filter id="glow-cyan" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="3" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
+    <!-- Card Shadow and Glow -->
+    <filter id="card-shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.5"/>
     </filter>
-
-    <filter id="glow-purple" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="3" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
-    </filter>
-
-    <!-- Grid Pattern -->
-    <pattern id="dot-grid" width="24" height="24" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1" fill="#16213e" opacity="0.4" />
-    </pattern>
   </defs>
 
-  <!-- Background Base -->
-  <rect width="100%" height="100%" fill="url(#bg-gradient)" rx="16" stroke="#00f0ff" stroke-width="1.5" stroke-opacity="0.3" />
+  <!-- Editor Window Container -->
+  <rect width="800" height="240" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1.5" filter="url(#card-shadow)" />
+
+  <!-- Window Titlebar -->
+  <path d="M 0,10 A 10,10 0 0 1 10,0 L 790,0 A 10,10 0 0 1 800,10 L 800,35 L 0,35 Z" fill="#161b22" />
   
-  <!-- Dot Grid Overlay -->
-  <rect width="100%" height="100%" fill="url(#dot-grid)" rx="16" />
+  <!-- Window Controls (macOS style dots) -->
+  <circle cx="20" cy="18" r="6" fill="#ff5f56" />
+  <circle cx="40" cy="18" r="6" fill="#ffbd2e" />
+  <circle cx="60" cy="18" r="6" fill="#27c93f" />
 
-  <!-- Cyberpunk Tech Corner Elements -->
-  <!-- Top-Left -->
-  <path d="M 12,30 L 12,12 L 30,12" fill="none" stroke="#00f0ff" stroke-width="2.5" filter="url(#glow-cyan)" />
-  <circle cx="12" cy="12" r="2" fill="#00f0ff" />
+  <!-- Tab Title -->
+  <path d="M 90,35 L 105,12 L 205,12 L 220,35 Z" fill="#0d1117" stroke="#30363d" stroke-width="1" />
+  <text x="115" y="26" fill="#c9d1d9" font-size="12" font-weight="600">amanProfile.js</text>
   
-  <!-- Top-Right -->
-  <path d="M 788,30 L 788,12 L 770,12" fill="none" stroke="#00f0ff" stroke-width="2.5" filter="url(#glow-cyan)" />
-  <circle cx="788" cy="12" r="2" fill="#00f0ff" />
+  <!-- Editor Line Numbers Column -->
+  <rect x="0" y="35" width="45" height="205" fill="#0d1117" />
+  <line x1="45" y1="35" x2="45" y2="240" stroke="#30363d" stroke-width="1" />
   
-  <!-- Bottom-Left -->
-  <path d="M 12,390 L 12,408 L 30,408" fill="none" stroke="#00f0ff" stroke-width="2.5" filter="url(#glow-cyan)" />
-  <circle cx="12" cy="408" r="2" fill="#00f0ff" />
-  
-  <!-- Bottom-Right -->
-  <path d="M 788,390 L 788,408 L 770,408" fill="none" stroke="#00f0ff" stroke-width="2.5" filter="url(#glow-cyan)" />
-  <circle cx="788" cy="408" r="2" fill="#00f0ff" />
+  <text x="20" y="65" fill="#30363d" text-anchor="middle" font-size="12">1</text>
+  <text x="20" y="87" fill="#30363d" text-anchor="middle" font-size="12">2</text>
+  <text x="20" y="109" fill="#30363d" text-anchor="middle" font-size="12">3</text>
+  <text x="20" y="131" fill="#30363d" text-anchor="middle" font-size="12">4</text>
+  <text x="20" y="153" fill="#30363d" text-anchor="middle" font-size="12">5</text>
+  <text x="20" y="175" fill="#30363d" text-anchor="middle" font-size="12">6</text>
+  <text x="20" y="197" fill="#30363d" text-anchor="middle" font-size="12">7</text>
+  <text x="20" y="219" fill="#30363d" text-anchor="middle" font-size="12">8</text>
 
-  <!-- Decorative HUD Horizontal Lines -->
-  <line x1="40" y1="35" x2="760" y2="35" stroke="#6c5ce7" stroke-width="1" stroke-opacity="0.4" />
-  <line x1="40" y1="385" x2="760" y2="385" stroke="#6c5ce7" stroke-width="1" stroke-opacity="0.4" />
+  <!-- Syntax Highlighted Code Lines -->
+  <g transform="translate(60, 0)">
+    <!-- Line 1: const developer = { -->
+    <text x="0" y="65" font-size="14">
+      <tspan fill="#ff7b72">const</tspan>
+      <tspan fill="#d2a8ff"> developer</tspan>
+      <tspan fill="#c9d1d9"> = {</tspan>
+    </text>
 
-  <!-- HUD Terminal Header -->
-  <text x="45" y="26" fill="#00f0ff" font-size="12" font-weight="700" letter-spacing="2" filter="url(#glow-cyan)">[ SYSTEM STATUS: ACTIVE ]</text>
-  <text x="430" y="26" fill="#a29bfe" font-size="11" font-weight="500" letter-spacing="1">HOST_ID: BEGINNER_AMAN // NETWORK: STABLE</text>
-  <circle cx="410" cy="22" r="4" fill="#00ffb3" />
+    <!-- Line 2: name: "Aman Vishwakarma", -->
+    <text x="20" y="87" font-size="14">
+      <tspan fill="#79c0ff">name</tspan>
+      <tspan fill="#c9d1d9">: </tspan>
+      <tspan fill="#a5d6ff">"Aman Vishwakarma"</tspan>
+      <tspan fill="#c9d1d9">,</tspan>
+    </text>
 
-  <!-- Crosshair Decors -->
-  <path d="M 400,200 L 400,220 M 390,210 L 410,210" fill="none" stroke="#6c5ce7" stroke-width="1" stroke-opacity="0.2" />
+    <!-- Line 3: AI_Collaborator: true, -->
+    <text x="20" y="109" font-size="14">
+      <tspan fill="#79c0ff">aiCollaborative</tspan>
+      <tspan fill="#c9d1d9">: </tspan>
+      <tspan fill="#ff5874">true</tspan>
+      <tspan fill="#c9d1d9">,</tspan>
+    </text>
 
-  <!-- ================= LEFT COLUMN: CAPABILITIES ================= -->
-  <text x="45" y="70" fill="#a29bfe" font-size="15" font-weight="700" letter-spacing="1" filter="url(#glow-purple)">CORE OPERATIONS</text>
-  
-  <!-- Capability 1 -->
-  <text x="45" y="105" fill="#e8e8ed" font-size="12" font-weight="600">Product Ideation &amp; Logic</text>
-  <text x="320" y="105" fill="#00f0ff" font-size="12" font-weight="700">100%</text>
-  <rect x="45" y="115" width="310" height="8" rx="4" fill="#12121a" stroke="#1b1b2f" />
-  <rect x="45" y="115" width="310" height="8" rx="4" fill="#00f0ff" filter="url(#glow-cyan)" />
+    <!-- Line 4: publicProjects: 26, -->
+    <text x="20" y="131" font-size="14">
+      <tspan fill="#79c0ff">publicProjects</tspan>
+      <tspan fill="#c9d1d9">: </tspan>
+      <tspan fill="#d2a8ff">26</tspan>
+      <tspan fill="#c9d1d9">,</tspan>
+    </text>
 
-  <!-- Capability 2 -->
-  <text x="45" y="155" fill="#e8e8ed" font-size="12" font-weight="600">AI-Collaborative Prototyping</text>
-  <text x="320" y="155" fill="#00f0ff" font-size="12" font-weight="700">100%</text>
-  <rect x="45" y="165" width="310" height="8" rx="4" fill="#12121a" stroke="#1b1b2f" />
-  <rect x="45" y="165" width="310" height="8" rx="4" fill="#00f0ff" filter="url(#glow-cyan)" />
+    <!-- Line 5: focus: "Building rapid products from creative concepts" -->
+    <text x="20" y="153" font-size="14">
+      <tspan fill="#79c0ff">focus</tspan>
+      <tspan fill="#c9d1d9">: </tspan>
+      <tspan fill="#a5d6ff">"Ideas to code, powered by AI"</tspan>
+      <tspan fill="#c9d1d9">,</tspan>
+    </text>
 
-  <!-- Capability 3 -->
-  <text x="45" y="205" fill="#e8e8ed" font-size="12" font-weight="600">Rapid Development Cycles</text>
-  <text x="327" y="205" fill="#00f0ff" font-size="12" font-weight="700">95%</text>
-  <rect x="45" y="215" width="310" height="8" rx="4" fill="#12121a" stroke="#1b1b2f" />
-  <rect x="45" y="215" width="294.5" height="8" rx="4" fill="#00f0ff" filter="url(#glow-cyan)" />
+    <!-- Line 6: specialties: ["Real-time Chat", "Web Games", "Utility Calculators"] -->
+    <text x="20" y="175" font-size="14">
+      <tspan fill="#79c0ff">specialties</tspan>
+      <tspan fill="#c9d1d9">: [</tspan>
+      <tspan fill="#a5d6ff">"Real-Time Chat"</tspan>
+      <tspan fill="#c9d1d9">, </tspan>
+      <tspan fill="#a5d6ff">"Web Games"</tspan>
+      <tspan fill="#c9d1d9">, </tspan>
+      <tspan fill="#a5d6ff">"Utility Tools"</tspan>
+      <tspan fill="#c9d1d9">]</tspan>
+    </text>
 
-  <!-- Capability 4 -->
-  <text x="45" y="255" fill="#e8e8ed" font-size="12" font-weight="600">UI/UX Design &amp; Architecture</text>
-  <text x="327" y="255" fill="#00f0ff" font-size="12" font-weight="700">90%</text>
-  <rect x="45" y="265" width="310" height="8" rx="4" fill="#12121a" stroke="#1b1b2f" />
-  <rect x="45" y="265" width="279" height="8" rx="4" fill="#00f0ff" filter="url(#glow-cyan)" />
+    <!-- Line 7: status: "Offline ideating // Online building" -->
+    <text x="20" y="197" font-size="14">
+      <tspan fill="#79c0ff">status</tspan>
+      <tspan fill="#c9d1d9">: </tspan>
+      <tspan fill="#a5d6ff">"Offline ideating // Online building"</tspan>
+    </text>
 
-  <!-- Decorative Circle Dial -->
-  <circle cx="95" cy="330" r="30" fill="none" stroke="#6c5ce7" stroke-width="2" stroke-dasharray="140, 50" stroke-opacity="0.5" />
-  <circle cx="95" cy="330" r="22" fill="none" stroke="#00f0ff" stroke-width="1.5" stroke-dasharray="90, 40" filter="url(#glow-cyan)" />
-  <text x="145" y="325" fill="#e8e8ed" font-size="11" font-weight="600">SYSTEM FREQUENCY</text>
-  <text x="145" y="342" fill="#00f0ff" font-size="13" font-weight="700" filter="url(#glow-cyan)">2.48 GHz [OVERCLOCKED]</text>
-
-  <!-- Vertical HUD Splitter -->
-  <line x1="400" y1="60" x2="400" y2="360" stroke="#6c5ce7" stroke-width="1.5" stroke-opacity="0.3" stroke-dasharray="8, 6" />
-
-  <!-- ================= RIGHT COLUMN: REPO STATS ================= -->
-  <text x="435" y="70" fill="#a29bfe" font-size="15" font-weight="700" letter-spacing="1" filter="url(#glow-purple)">DEPLOYED REPOSITORIES</text>
-
-  <!-- Metric 1: Chat Suite -->
-  <g transform="translate(435, 95)">
-    <rect width="320" height="40" fill="#0a0a0f" fill-opacity="0.6" rx="6" stroke="#1b1b2f" stroke-width="1"/>
-    <text x="15" y="24" fill="#e8e8ed" font-size="12" font-weight="600">💬 Deployed Chat Platforms</text>
-    <text x="280" y="25" fill="#00f0ff" font-size="14" font-weight="700" filter="url(#glow-cyan)">05</text>
+    <!-- Line 8: }; -->
+    <text x="0" y="219" fill="#c9d1d9" font-size="14">};</text>
   </g>
 
-  <!-- Metric 2: Games -->
-  <g transform="translate(435, 145)">
-    <rect width="320" height="40" fill="#0a0a0f" fill-opacity="0.6" rx="6" stroke="#1b1b2f" stroke-width="1"/>
-    <text x="15" y="24" fill="#e8e8ed" font-size="12" font-weight="600">🎮 Interactive Game Engines</text>
-    <text x="280" y="25" fill="#00f0ff" font-size="14" font-weight="700" filter="url(#glow-cyan)">08</text>
-  </g>
-
-  <!-- Metric 3: Utilities -->
-  <g transform="translate(435, 195)">
-    <rect width="320" height="40" fill="#0a0a0f" fill-opacity="0.6" rx="6" stroke="#1b1b2f" stroke-width="1"/>
-    <text x="15" y="24" fill="#e8e8ed" font-size="12" font-weight="600">📊 Business &amp; Utility Tools</text>
-    <text x="280" y="25" fill="#00f0ff" font-size="14" font-weight="700" filter="url(#glow-cyan)">08</text>
-  </g>
-
-  <!-- Metric 4: Web Portals -->
-  <g transform="translate(435, 245)">
-    <rect width="320" height="40" fill="#0a0a0f" fill-opacity="0.6" rx="6" stroke="#1b1b2f" stroke-width="1"/>
-    <text x="15" y="24" fill="#e8e8ed" font-size="12" font-weight="600">🌐 Deployed Web Applications</text>
-    <text x="280" y="25" fill="#00f0ff" font-size="14" font-weight="700" filter="url(#glow-cyan)">05</text>
-  </g>
-
-  <!-- Total Summary Bar -->
-  <g transform="translate(435, 305)">
-    <rect width="320" height="55" fill="rgba(108, 92, 231, 0.08)" rx="8" stroke="#6c5ce7" stroke-width="1.5" stroke-opacity="0.6" />
-    <text x="20" y="32" fill="#a29bfe" font-size="13" font-weight="700">TOTAL SYSTEM OUTPUT</text>
-    <text x="245" y="36" fill="#00f0ff" font-size="20" font-weight="800" filter="url(#glow-cyan)">26 REPOS</text>
-  </g>
+  <!-- Subtle Neon Gradient Border Overlay for aesthetic touch -->
+  <rect width="800" height="240" rx="10" fill="none" stroke="url(#border-gradient)" stroke-width="1.5" pointer-events="none" />
+  
+  <defs>
+    <linearGradient id="border-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f0ff" stop-opacity="0.4" />
+      <stop offset="50%" stop-color="#6c5ce7" stop-opacity="0.1" />
+      <stop offset="100%" stop-color="#00f0ff" stop-opacity="0.4" />
+    </linearGradient>
+  </defs>
 </svg>
