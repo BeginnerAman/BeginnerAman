@@ -62,8 +62,8 @@ Here are a few highlights from my portfolio of **26+ public repositories** (all 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- 3D Contribution Graph -->
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=BeginnerAman&theme=tokyonight" alt="3D Contribution Graph" width="100%" />
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeginnerAman&theme=tokyonight" alt="GitHub Activity Graph" width="100%" />
   
   <br/><br/>
 
@@ -101,7 +101,7 @@ Here are a few highlights from my portfolio of **26+ public repositories** (all 
   <br/><br/>
   
   <!-- Visitor Counter Badge -->
-  <img src="https://profile-counter.glitch.me/BeginnerAman/count.svg" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=BeginnerAman&color=purple&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br/>
