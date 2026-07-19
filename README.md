@@ -16,7 +16,7 @@
 I am an **idea-first developer** passionate about bringing creative, functional concepts to life. I focus on application design, architecture, and user experience, collaborating with **AI copilots** to write code and build applications rapidly.
 
 - 💡 **Philosophy:** Ideas are the foundation; execution is accelerated through AI collaboration.
-- 🛠5 **Scope:** Built **26+ public projects** spanning real-time chat platforms, interactive games, utilities, and web interfaces.
+- 🛠5 **Scope:** Built **27+ public projects** spanning offline file sharing tools, real-time chat platforms, interactive games, utilities, and web interfaces.
 - ⚡ **Tech Focus:** Full-stack development, real-time networking, and lightweight tools.
 
 ---
@@ -44,6 +44,8 @@ I am an **idea-first developer** passionate about bringing creative, functional 
 ### 🏆 My Coding Milestones & Accomplishments
 Rather than showing simple activity charts, here is the concrete work I have done by orchestrating code alongside AI:
 
+*   📡 **A-Drop (Flagship)** — Built an ultra-fast, 100% offline file sharing application that transfers unlimited files between Windows PC & Mobile via Wi-Fi Hotspot & USB Tethering. A true AirDrop alternative for Windows.
+
 *   💬 **The Chat Suite (5 Apps)** — Created a series of real-time communication platforms, including the flagship *Real-Time Chat App*, *Advanced Chat Platform*, and multiple group messaging backends.
 *   🎮 **The Gaming Lounge (8 Games)** — Built interactive client-side games, including *Roast & Reveal*, *Speed Typer Pro*, *Fake Hacker Terminal*, and multiplayer quiz engines.
 *   📊 **Business & Utility Calculators** — Designed milk rate and dairy pricing calculators (*Dairy Price Calculator*, *Milk Rate Calculator*) to solve real-world calculation problems.
@@ -54,6 +56,13 @@ Rather than showing simple activity charts, here is the concrete work I have don
 ### 📂 Featured Creations
 
 <table width="100%" border="0">
+  <tr>
+    <td width="100%" valign="top" colspan="2">
+      <h4>📡 A-Drop — Ultra-Fast Offline File Sharing</h4>
+      <p>Transfer unlimited files between Windows PC & Mobile instantly via Wi-Fi Hotspot & USB Tethering. 100% offline, zero lag, RAM-safe binary streaming. The AirDrop alternative for Windows.</p>
+      <a href="https://beginneraman.github.io/a-drop/" target="_blank">🚀 Live Demo</a> &bull; <a href="https://github.com/BeginnerAman/a-drop" target="_blank">💻 Source Code</a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>💬 Real-Time Chat App</h4>
@@ -114,6 +123,6 @@ Rather than showing simple activity charts, here is the concrete work I have don
 SEO METADATA FOR SEARCH INDEXING:
 Name: Aman Vishwakarma
 Username: BeginnerAman
-Keywords: Aman Vishwakarma, BeginnerAman, Aman Vishwakarma GitHub, Aman Vishwakarma portfolio, Aman Vishwakarma projects, Full Stack Developer, Developer Portfolio, Real-Time Chat App, LuxeStay Hotel, JavaScript Developer India, AI developer, side projects, open source, komarev profile views, tokyonight github.
+Keywords: Aman Vishwakarma, BeginnerAman, Aman Vishwakarma GitHub, Aman Vishwakarma portfolio, Aman Vishwakarma projects, Full Stack Developer, Developer Portfolio, A-Drop, A Drop file sharing, offline file transfer, AirDrop alternative Windows, PC to Mobile file sharing, Real-Time Chat App, LuxeStay Hotel, JavaScript Developer India, AI developer, side projects, open source, local file sharing app, WiFi hotspot transfer.
 =========================================
 -->
