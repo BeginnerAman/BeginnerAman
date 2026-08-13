@@ -44,12 +44,12 @@ I am an **idea-first developer** passionate about bringing creative, functional 
 ### My Coding Milestones & Accomplishments
 Rather than showing simple activity charts, here is the concrete work I have done by orchestrating code alongside AI:
 
-*   **A-Drop (Flagship)** — Built an ultra-fast, 100% offline file sharing application that transfers unlimited files between Windows PC & Mobile via Wi-Fi Hotspot & USB Tethering. A true AirDrop alternative for Windows.
+*   **ADrop (Flagship)** - Built an ultra-fast, 100% offline file sharing application that transfers unlimited files between Windows PC & Mobile via Wi-Fi Hotspot & USB Tethering. A true AirDrop alternative for Windows.
 
-*   **The Chat Suite (5 Apps)** — Created a series of real-time communication platforms, including the flagship *Real-Time Chat App*, *Advanced Chat Platform*, and multiple group messaging backends.
-*   **The Gaming Lounge (8 Games)** — Built interactive client-side games, including *Roast & Reveal*, *Speed Typer Pro*, *Fake Hacker Terminal*, and multiplayer quiz engines.
-*   **Business & Utility Calculators** — Designed milk rate and dairy pricing calculators (*Dairy Price Calculator*, *Milk Rate Calculator*) to solve real-world calculation problems.
-*   **Premium Booking Systems** — Designed and built *LuxeStay Hotel*, a modern web app showcase for room booking and reservation management.
+*   **The Chat Suite (5 Apps)** - Created a series of real-time communication platforms, including the flagship *Real-Time Chat App*, *Advanced Chat Platform*, and multiple group messaging backends.
+*   **The Gaming Lounge (8 Games)** - Built interactive client-side games, including *Roast & Reveal*, *Speed Typer Pro*, *Fake Hacker Terminal*, and multiplayer quiz engines.
+*   **Business & Utility Calculators** - Designed milk rate and dairy pricing calculators (*Dairy Price Calculator*, *Milk Rate Calculator*) to solve real-world calculation problems.
+*   **Premium Booking Systems** - Designed and built *LuxeStay Hotel*, a modern web app showcase for room booking and reservation management.
 
 ---
 
@@ -58,9 +58,9 @@ Rather than showing simple activity charts, here is the concrete work I have don
 <table width="100%" border="0">
   <tr>
     <td width="100%" valign="top" colspan="2">
-      <h4>A-Drop — Ultra-Fast Offline File Sharing</h4>
+      <h4>ADrop - Ultra Fast Offline File Sharing</h4>
       <p>Transfer unlimited files between Windows PC & Mobile instantly via Wi-Fi Hotspot & USB Tethering. 100% offline, zero lag, RAM-safe binary streaming. The AirDrop alternative for Windows.</p>
-      <a href="https://beginneraman.github.io/a-drop/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0a0a0f?style=for-the-badge&logo=vercel&logoColor=00f0ff&labelColor=0a0a0f" alt="Live Demo"/></a> &bull; <a href="https://github.com/BeginnerAman/a-drop" target="_blank"><img src="https://img.shields.io/badge/Source_Code-0a0a0f?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0a0a0f" alt="Source Code"/></a>
+      <a href="https://beginneraman.github.io/ADrop/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0a0a0f?style=for-the-badge&logo=vercel&logoColor=00f0ff&labelColor=0a0a0f" alt="Live Demo"/></a> &bull; <a href="https://github.com/BeginnerAman/ADrop" target="_blank"><img src="https://img.shields.io/badge/Source_Code-0a0a0f?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0a0a0f" alt="Source Code"/></a>
     </td>
   </tr>
   <tr>
@@ -123,6 +123,6 @@ Rather than showing simple activity charts, here is the concrete work I have don
 SEO METADATA FOR SEARCH INDEXING:
 Name: Aman Vishwakarma
 Username: BeginnerAman
-Keywords: Aman Vishwakarma, BeginnerAman, Aman Vishwakarma GitHub, Aman Vishwakarma portfolio, Aman Vishwakarma projects, Full Stack Developer, Developer Portfolio, A-Drop, A Drop file sharing, offline file transfer, AirDrop alternative Windows, PC to Mobile file sharing, Real-Time Chat App, LuxeStay Hotel, JavaScript Developer India, AI developer, side projects, open source, local file sharing app, WiFi hotspot transfer.
+Keywords: Aman Vishwakarma, BeginnerAman, Aman Vishwakarma GitHub, Aman Vishwakarma portfolio, Aman Vishwakarma projects, Full Stack Developer, Developer Portfolio, ADrop, A Drop file sharing, offline file transfer, AirDrop alternative Windows, PC to Mobile file sharing, Real-Time Chat App, LuxeStay Hotel, JavaScript Developer India, AI developer, side projects, open source, local file sharing app, WiFi hotspot transfer.
 =========================================
 -->
