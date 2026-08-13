@@ -46,8 +46,8 @@ Rather than showing simple activity charts, here is the concrete work I have don
 
 *   **ADrop (Flagship)** - Built an ultra-fast, 100% offline file sharing application that transfers unlimited files between Windows PC & Mobile via Wi-Fi Hotspot & USB Tethering. A true AirDrop alternative for Windows.
 
-*   **The Chat Suite (5 Apps)** - Created a series of real-time communication platforms, including the flagship *Real-Time Chat App*, *Advanced Chat Platform*, and multiple group messaging backends.
-*   **The Gaming Lounge (8 Games)** - Built interactive client-side games, including *Roast & Reveal*, *Speed Typer Pro*, *Fake Hacker Terminal*, and multiplayer quiz engines.
+*   **The Chat Suite** - Created collaborative real-time communication platforms, including *Group Messaging Platform*.
+*   **The Gaming Lounge** - Built interactive client-side games, including *Speed Typer Pro*, *Fake Hacker Terminal*, and multiplayer quiz engines.
 *   **Business & Utility Calculators** - Designed milk rate and dairy pricing calculators (*Dairy Price Calculator*, *Milk Rate Calculator*) to solve real-world calculation problems.
 *   **Premium Booking Systems** - Designed and built *LuxeStay Hotel*, a modern web app showcase for room booking and reservation management.
 
@@ -65,9 +65,9 @@ Rather than showing simple activity charts, here is the concrete work I have don
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>Real-Time Chat App</h4>
-      <p>Live messaging platform with real-time delivery and instant notifications.</p>
-      <a href="https://beginneraman.github.io/real-time-chat-app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0a0a0f?style=for-the-badge&logo=vercel&logoColor=00f0ff&labelColor=0a0a0f" alt="Live Demo"/></a> &bull; <a href="https://github.com/BeginnerAman/real-time-chat-app" target="_blank"><img src="https://img.shields.io/badge/Source_Code-0a0a0f?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0a0a0f" alt="Source Code"/></a>
+      <h4>Group Messaging Platform</h4>
+      <p>Collaborative group messaging app for seamless team communication.</p>
+      <a href="https://beginneraman.github.io/group-messaging-platform/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0a0a0f?style=for-the-badge&logo=vercel&logoColor=00f0ff&labelColor=0a0a0f" alt="Live Demo"/></a> &bull; <a href="https://github.com/BeginnerAman/group-messaging-platform" target="_blank"><img src="https://img.shields.io/badge/Source_Code-0a0a0f?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0a0a0f" alt="Source Code"/></a>
     </td>
     <td width="50%" valign="top">
       <h4>LuxeStay Hotel</h4>
@@ -77,9 +77,9 @@ Rather than showing simple activity charts, here is the concrete work I have don
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>Roast & Reveal</h4>
-      <p>A fun, interactive game designed to playfully roast your friends and reveal hilarious facts.</p>
-      <a href="https://beginneraman.github.io/roast-and-reveal/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0a0a0f?style=for-the-badge&logo=vercel&logoColor=00f0ff&labelColor=0a0a0f" alt="Live Demo"/></a> &bull; <a href="https://github.com/BeginnerAman/roast-and-reveal" target="_blank"><img src="https://img.shields.io/badge/Source_Code-0a0a0f?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0a0a0f" alt="Source Code"/></a>
+      <h4>Resume Forge Pro</h4>
+      <p>Professional resume builder with modern templates and easy customization.</p>
+      <a href="https://beginneraman.github.io/resume-forge-pro/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0a0a0f?style=for-the-badge&logo=vercel&logoColor=00f0ff&labelColor=0a0a0f" alt="Live Demo"/></a> &bull; <a href="https://github.com/BeginnerAman/resume-forge-pro" target="_blank"><img src="https://img.shields.io/badge/Source_Code-0a0a0f?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0a0a0f" alt="Source Code"/></a>
     </td>
     <td width="50%" valign="top">
       <h4>Speed Typer Pro</h4>
