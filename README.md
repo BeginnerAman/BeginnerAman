@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,45:180d38,100:002b36&height=220&section=header&text=Aman%20Vishwakarma&fontSize=48&fontColor=00f0ff&fontAlignY=38&desc=Idea-Driven%20Developer%20%7C%20AI-Collaborative%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
   
   <!-- Glowing Neon Cyan Typing Animation -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=00F0FF&center=true&vCenter=true&multiline=false&width=650&lines=Creator+of+ADrop+-+150%2B+MB%2Fs+Offline+File+Transfer.;Creator+of+AirDeck+-+Wireless+Hardware+Bridge.;Architect+of+VastraFlow+-+Offline+POS+Desktop+App.;Building+RenameSense+%26+StorageOrganizer+Tools.;35%2B+Open+Source+Repositories+on+GitHub!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=00F0FF&center=true&vCenter=true&multiline=false&width=680&lines=Creator+of+ADrop+-+150%2B+MB%2Fs+Offline+File+Transfer.;Creator+of+AirDeck+-+Wireless+Hardware+Bridge.;smart-file-sync+-+Win32+DMA+Sync+Engine.;Architect+of+VastraFlow+-+Offline+POS+Desktop+App.;Building+RenameSense+%26+StorageOrganizer+Tools.;35%2B+Open+Source+Repositories+on+GitHub!)](https://git.io/typing-svg)
   
   ### [Explore My Interactive Live Portfolio](https://beginneraman.github.io/Portfolio/)
 </div>
@@ -48,11 +48,12 @@ Concrete engineering projects built by orchestrating code alongside AI:
 
 *   **ADrop (Flagship)** - Ultra-fast, 100% offline local file sharing engine transferring files between Windows PC & Mobile at 150+ MB/s over Wi-Fi Hotspot & USB Tethering without internet or cables.
 *   **AirDeck** - Wireless Windows hardware companion bridge turning any smartphone or tablet into a high-performance trackpad, macro stream deck, numeric keypad, and studio controller without mobile apps.
+*   **smart-file-sync Engine** - High-throughput file sync engine with Win32 Kernel DMA (1,906 files/sec), 4KB differential delta transfers, real-time filesystem watcher, and USB hardware hot-plug detection.
 *   **VastraFlow** - 100% offline Windows desktop ERP, barcode billing, and inventory management desktop application for garment retail showrooms with thermal receipt printer integration.
 *   **RenameSense & StorageOrganizer** - Enterprise-grade batch file renamer with 1-click WAL transaction rollback protection, and intelligent desktop storage optimizer with MD5 deduplication.
 *   **Resume Forge Pro** - High-speed 1-page A4 ATS-friendly Resume & Biodata Builder with 20 executive templates, real-time live preview editor, and 4K vector PDF export.
 *   **Data Wizard Hub & Analytical Platforms** - Interactive 500+ data science tricks platform with 10-stage Data Analyst framework and 8-stage ML pipeline.
-*   **ShayariVerse & Creative Suites** - Ambient soundscape literature web platform with reels feed, paired with Loopi 1:1 motion graphics studio.
+*   **ShayariVerse** - Ambient soundscape literature web platform with reels feed and interactive typography.
 
 ---
 
@@ -73,14 +74,14 @@ Concrete engineering projects built by orchestrating code alongside AI:
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h4>smart-file-sync - High-Speed Offline Sync Engine</h4>
+      <p>High-performance 100% offline file synchronization engine for Windows with Win32 DMA copying (1,906 files/sec), 4KB block-level delta transfers, real-time filesystem watcher, and USB hardware auto-detection.</p>
+      <a href="https://beginneraman.github.io/smart-file-sync/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0a0a0f?style=for-the-badge&logo=vercel&logoColor=00f0ff&labelColor=0a0a0f" alt="Live Demo"/></a> &bull; <a href="https://github.com/BeginnerAman/smart-file-sync" target="_blank"><img src="https://img.shields.io/badge/Source_Code-0a0a0f?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0a0a0f" alt="Source Code"/></a>
+    </td>
+    <td width="50%" valign="top">
       <h4>VastraFlow - Retail POS & Inventory Desktop App</h4>
       <p>100% offline Windows desktop application for garment shops, clothing showrooms, and retail stores. Features fast barcode billing, 80mm thermal receipt printing, stock variance, and store credit ledgers.</p>
       <a href="https://beginneraman.github.io/VastraFlow/" target="_blank"><img src="https://img.shields.io/badge/Live_Showcase-0a0a0f?style=for-the-badge&logo=vercel&logoColor=00f0ff&labelColor=0a0a0f" alt="Live Showcase"/></a> &bull; <a href="https://github.com/BeginnerAman/VastraFlow" target="_blank"><img src="https://img.shields.io/badge/Source_Code-0a0a0f?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0a0a0f" alt="Source Code"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>Resume Forge Pro</h4>
-      <p>A high-speed 1-page A4 ATS-friendly Resume & Biodata Builder with 20 executive templates, real-time live preview editor, and razor-sharp 4K vector PDF export.</p>
-      <a href="https://beginneraman.github.io/resume-forge-pro/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0a0a0f?style=for-the-badge&logo=vercel&logoColor=00f0ff&labelColor=0a0a0f" alt="Live Demo"/></a> &bull; <a href="https://github.com/BeginnerAman/resume-forge-pro" target="_blank"><img src="https://img.shields.io/badge/Source_Code-0a0a0f?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0a0a0f" alt="Source Code"/></a>
     </td>
   </tr>
   <tr>
@@ -97,14 +98,14 @@ Concrete engineering projects built by orchestrating code alongside AI:
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h4>Resume Forge Pro</h4>
+      <p>A high-speed 1-page A4 ATS-friendly Resume & Biodata Builder with 20 executive templates, real-time live preview editor, and razor-sharp 4K vector PDF export.</p>
+      <a href="https://beginneraman.github.io/resume-forge-pro/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0a0a0f?style=for-the-badge&logo=vercel&logoColor=00f0ff&labelColor=0a0a0f" alt="Live Demo"/></a> &bull; <a href="https://github.com/BeginnerAman/resume-forge-pro" target="_blank"><img src="https://img.shields.io/badge/Source_Code-0a0a0f?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0a0a0f" alt="Source Code"/></a>
+    </td>
+    <td width="50%" valign="top">
       <h4>Data Wizard Hub</h4>
       <p>Interactive 500+ data science tricks platform featuring flashcards, 10-stage Data Analyst framework, 8-stage ML pipeline, and quick-reference cheat sheets.</p>
       <a href="https://beginneraman.github.io/data-wizard-hub/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0a0a0f?style=for-the-badge&logo=vercel&logoColor=00f0ff&labelColor=0a0a0f" alt="Live Demo"/></a> &bull; <a href="https://github.com/BeginnerAman/data-wizard-hub" target="_blank"><img src="https://img.shields.io/badge/Source_Code-0a0a0f?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0a0a0f" alt="Source Code"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>LuxeStay Hotel</h4>
-      <p>A premium web application for room reservations and hotel booking featuring room filtering, amenities showcase, and fully responsive UX deployed on Vercel.</p>
-      <a href="https://luxe-stay-hotel-weld.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0a0a0f?style=for-the-badge&logo=vercel&logoColor=00f0ff&labelColor=0a0a0f" alt="Live Demo"/></a> &bull; <a href="https://github.com/BeginnerAman/LuxeStay-Hotel" target="_blank"><img src="https://img.shields.io/badge/Source_Code-0a0a0f?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0a0a0f" alt="Source Code"/></a>
     </td>
   </tr>
   <tr>
@@ -114,9 +115,9 @@ Concrete engineering projects built by orchestrating code alongside AI:
       <a href="https://beginneraman.github.io/ShayariVerse/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0a0a0f?style=for-the-badge&logo=vercel&logoColor=00f0ff&labelColor=0a0a0f" alt="Live Demo"/></a> &bull; <a href="https://github.com/BeginnerAman/ShayariVerse" target="_blank"><img src="https://img.shields.io/badge/Source_Code-0a0a0f?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0a0a0f" alt="Source Code"/></a>
     </td>
     <td width="50%" valign="top">
-      <h4>Loopi - Motion DP Studio</h4>
-      <p>Animated 1:1 Profile Picture (DP) and motion studio with particle physics, customizable frames, and watermark-free GIF/MP4 export.</p>
-      <a href="https://beginneraman.github.io/Loopi/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0a0a0f?style=for-the-badge&logo=vercel&logoColor=00f0ff&labelColor=0a0a0f" alt="Live Demo"/></a> &bull; <a href="https://github.com/BeginnerAman/Loopi" target="_blank"><img src="https://img.shields.io/badge/Source_Code-0a0a0f?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0a0a0f" alt="Source Code"/></a>
+      <h4>LuxeStay Hotel</h4>
+      <p>A premium web application for room reservations and hotel booking featuring room filtering, amenities showcase, and fully responsive UX deployed on Vercel.</p>
+      <a href="https://luxe-stay-hotel-weld.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0a0a0f?style=for-the-badge&logo=vercel&logoColor=00f0ff&labelColor=0a0a0f" alt="Live Demo"/></a> &bull; <a href="https://github.com/BeginnerAman/LuxeStay-Hotel" target="_blank"><img src="https://img.shields.io/badge/Source_Code-0a0a0f?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0a0a0f" alt="Source Code"/></a>
     </td>
   </tr>
 </table>
@@ -159,6 +160,6 @@ SEO METADATA FOR SEARCH INDEXING:
 Name: Aman Vishwakarma
 Username: BeginnerAman
 Email: amanvishwakarma.data@gmail.com
-Keywords: Aman Vishwakarma, BeginnerAman, Aman Vishwakarma GitHub, Aman Vishwakarma portfolio, Aman Vishwakarma projects, Full Stack Developer, Developer Portfolio, ADrop, A Drop file sharing, offline file transfer, AirDrop alternative Windows, PC to Mobile file sharing, AirDeck, Windows hardware bridge, macro stream deck, VastraFlow, offline POS software, retail billing ERP desktop app, thermal receipt printing, RenameSense, batch file renamer, WAL transaction rollback, StorageOrganizer, MD5 deduplication, Resume Forge Pro, ATS resume builder, Data Wizard Hub, data science pipeline, ShayariVerse, Loopi motion DP studio, Python developer India, AI developer, systems software engineer.
+Keywords: Aman Vishwakarma, BeginnerAman, Aman Vishwakarma GitHub, Aman Vishwakarma portfolio, Aman Vishwakarma projects, Full Stack Developer, Developer Portfolio, ADrop, A Drop file sharing, offline file transfer, AirDrop alternative Windows, PC to Mobile file sharing, AirDeck, Windows hardware bridge, macro stream deck, VastraFlow, offline POS software, retail billing ERP desktop app, thermal receipt printing, RenameSense, batch file renamer, WAL transaction rollback, StorageOrganizer, MD5 deduplication, smart-file-sync, Win32 DMA sync engine, block delta transfer, Resume Forge Pro, ATS resume builder, Data Wizard Hub, data science pipeline, ShayariVerse, Python developer India, AI developer, systems software engineer.
 =========================================
 -->
