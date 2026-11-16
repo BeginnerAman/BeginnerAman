@@ -52,6 +52,7 @@ Concrete engineering projects built by orchestrating code alongside AI:
 *   **RenameSense & StorageOrganizer** - Enterprise-grade batch file renamer with 1-click WAL transaction rollback protection, and intelligent desktop storage optimizer with MD5 deduplication.
 *   **Resume Forge Pro** - High-speed 1-page A4 ATS-friendly Resume & Biodata Builder with 20 executive templates, real-time live preview editor, and 4K vector PDF export.
 *   **Data Wizard Hub & Analytical Platforms** - Interactive 500+ data science tricks platform with 10-stage Data Analyst framework and 8-stage ML pipeline.
+*   **ShayariVerse & Creative Suites** - Ambient soundscape literature web platform with reels feed, paired with Loopi 1:1 motion graphics studio.
 
 ---
 
@@ -106,6 +107,18 @@ Concrete engineering projects built by orchestrating code alongside AI:
       <a href="https://luxe-stay-hotel-weld.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0a0a0f?style=for-the-badge&logo=vercel&logoColor=00f0ff&labelColor=0a0a0f" alt="Live Demo"/></a> &bull; <a href="https://github.com/BeginnerAman/LuxeStay-Hotel" target="_blank"><img src="https://img.shields.io/badge/Source_Code-0a0a0f?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0a0a0f" alt="Source Code"/></a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>ShayariVerse - Ambient Poetry & Literature</h4>
+      <p>Modern poetry and literature web app featuring ambient soundscapes, reels feed, interactive typography, and instant search.</p>
+      <a href="https://beginneraman.github.io/ShayariVerse/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0a0a0f?style=for-the-badge&logo=vercel&logoColor=00f0ff&labelColor=0a0a0f" alt="Live Demo"/></a> &bull; <a href="https://github.com/BeginnerAman/ShayariVerse" target="_blank"><img src="https://img.shields.io/badge/Source_Code-0a0a0f?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0a0a0f" alt="Source Code"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Loopi - Motion DP Studio</h4>
+      <p>Animated 1:1 Profile Picture (DP) and motion studio with particle physics, customizable frames, and watermark-free GIF/MP4 export.</p>
+      <a href="https://beginneraman.github.io/Loopi/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0a0a0f?style=for-the-badge&logo=vercel&logoColor=00f0ff&labelColor=0a0a0f" alt="Live Demo"/></a> &bull; <a href="https://github.com/BeginnerAman/Loopi" target="_blank"><img src="https://img.shields.io/badge/Source_Code-0a0a0f?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0a0a0f" alt="Source Code"/></a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -146,6 +159,6 @@ SEO METADATA FOR SEARCH INDEXING:
 Name: Aman Vishwakarma
 Username: BeginnerAman
 Email: amanvishwakarma.data@gmail.com
-Keywords: Aman Vishwakarma, BeginnerAman, Aman Vishwakarma GitHub, Aman Vishwakarma portfolio, Aman Vishwakarma projects, Full Stack Developer, Developer Portfolio, ADrop, A Drop file sharing, offline file transfer, AirDrop alternative Windows, PC to Mobile file sharing, AirDeck, Windows hardware bridge, macro stream deck, VastraFlow, offline POS software, retail billing ERP desktop app, thermal receipt printing, RenameSense, batch file renamer, WAL transaction rollback, StorageOrganizer, MD5 deduplication, Resume Forge Pro, ATS resume builder, Data Wizard Hub, data science pipeline, Python developer India, AI developer, systems software engineer.
+Keywords: Aman Vishwakarma, BeginnerAman, Aman Vishwakarma GitHub, Aman Vishwakarma portfolio, Aman Vishwakarma projects, Full Stack Developer, Developer Portfolio, ADrop, A Drop file sharing, offline file transfer, AirDrop alternative Windows, PC to Mobile file sharing, AirDeck, Windows hardware bridge, macro stream deck, VastraFlow, offline POS software, retail billing ERP desktop app, thermal receipt printing, RenameSense, batch file renamer, WAL transaction rollback, StorageOrganizer, MD5 deduplication, Resume Forge Pro, ATS resume builder, Data Wizard Hub, data science pipeline, ShayariVerse, Loopi motion DP studio, Python developer India, AI developer, systems software engineer.
 =========================================
 -->
