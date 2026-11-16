@@ -7,7 +7,7 @@
   <!-- Glowing Neon Cyan Typing Animation -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=00F0FF&center=true&vCenter=true&multiline=false&width=680&lines=Creator+of+ADrop+-+150%2B+MB%2Fs+Offline+File+Transfer.;Creator+of+AirDeck+-+Wireless+Hardware+Bridge.;Engineering+smart-file-sync+-+Win32+DMA+Engine.;Architect+of+VastraFlow+-+Offline+POS+Desktop+App.;Building+RenameSense+%26+StorageOrganizer+Tools.;35%2B+Open+Source+Repositories+on+GitHub!)](https://git.io/typing-svg)
   
-  ### [Explore My Interactive Live Portfolio](https://beginneraman.github.io/Portfolio/)
+  ### [Explore My Interactive Live Portfolio](https://beginneraman.github.io/)
 </div>
 
 ---
@@ -166,7 +166,7 @@ Concrete engineering projects built by orchestrating code alongside AI:
 
 <div align="center">
   <!-- Custom Cyberpunk Badges for Links Matching Profile Picture -->
-  <a href="https://beginneraman.github.io/Portfolio/" target="_blank">
+  <a href="https://beginneraman.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0a0a0f?style=for-the-badge&logo=google-chrome&logoColor=00f0ff&labelColor=0a0a0f" />
   </a>
   <a href="https://github.com/BeginnerAman" target="_blank">
