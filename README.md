@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,45:180d38,100:002b36&height=220&section=header&text=Aman%20Vishwakarma&fontSize=48&fontColor=00f0ff&fontAlignY=38&desc=Idea-Driven%20Developer%20%7C%20AI-Collaborative%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
   
   <!-- Glowing Neon Cyan Typing Animation -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=00F0FF&center=true&vCenter=true&multiline=false&width=680&lines=Creator+of+ADrop+-+150%2B+MB%2Fs+Offline+File+Transfer.;Creator+of+AirDeck+-+Wireless+Hardware+Bridge.;smart-file-sync+-+Win32+DMA+Sync+Engine.;Architect+of+VastraFlow+-+Offline+POS+Desktop+App.;Building+RenameSense+%26+StorageOrganizer+Tools.;35%2B+Open+Source+Repositories+on+GitHub!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=00F0FF&center=true&vCenter=true&multiline=false&width=680&lines=Creator+of+ADrop+-+150%2B+MB%2Fs+Offline+File+Transfer.;Creator+of+AirDeck+-+Wireless+Hardware+Bridge.;Engineering+smart-file-sync+-+Win32+DMA+Engine.;Architect+of+VastraFlow+-+Offline+POS+Desktop+App.;Building+RenameSense+%26+StorageOrganizer+Tools.;35%2B+Open+Source+Repositories+on+GitHub!)](https://git.io/typing-svg)
   
   ### [Explore My Interactive Live Portfolio](https://beginneraman.github.io/Portfolio/)
 </div>
