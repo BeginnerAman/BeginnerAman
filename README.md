@@ -13,32 +13,43 @@
 ---
 
 ### About Me
-I am an **idea-first developer** and systems builder passionate about creating high-impact offline utilities, native desktop tools, and full-stack web applications. I focus on system architecture, user experience, and hardware-software bridges, collaborating with **AI copilots** to write code and ship products at high velocity.
+I am an **AI-native product architect** and systems builder passionate about creating high-impact offline utilities, native desktop tools, and full-stack web applications. Rather than writing manual boilerplate syntax by hand, I orchestrate frontier AI reasoning models as an engineering superpower to design, architect, and ship production software at 10x velocity.
 
-- **Philosophy:** Ideas are the foundation; execution is accelerated through AI collaboration.
-- **Scope:** Built **35+ public repositories** spanning offline file sharing engines, native Windows desktop utilities, enterprise POS ERPs, real-time networking tools, and data analytics hubs.
-- **Engineering Focus:** 100% Offline-first architectures, low-latency binary streams, desktop system engineering, and developer productivity suites.
+- **Philosophy:** Ideas, system logic, and product architecture are the foundation; code synthesis is accelerated through AI co-engineering.
+- **Scope:** Built and shipped **35+ public repositories** spanning offline file sharing engines, native Windows desktop utilities, enterprise POS ERPs, real-time networking tools, and data analytics hubs.
+- **Engineering Focus:** 100% Offline-first architectures, low-latency binary streams, Win32 kernel file operations, and developer productivity suites.
 
 ---
 
-### Tech Stack & Tools
+### AI Co-Engineering & Orchestration Stack
+The frontier reasoning models and agentic environments I command to architect and build software:
+
 <div align="center">
-  <!-- Custom Cyberpunk Themed Badges: Dark Slate Backgrounds with Neon Cyan Text and Logos -->
+  <!-- Custom Cyberpunk Themed Badges Matching Profile Picture -->
+  <img src="https://img.shields.io/badge/Google_Antigravity-0a0a0f?style=for-the-badge&logo=google&logoColor=00f0ff&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/Claude_(Anthropic)-0a0a0f?style=for-the-badge&logo=anthropic&logoColor=00f0ff&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/Google_Gemini-0a0a0f?style=for-the-badge&logo=googlegemini&logoColor=00f0ff&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/ChatGPT_(OpenAI)-0a0a0f?style=for-the-badge&logo=openai&logoColor=00f0ff&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/DeepSeek-0a0a0f?style=for-the-badge&logo=deepseek&logoColor=00f0ff&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/VS_Code-0a0a0f?style=for-the-badge&logo=visual-studio-code&logoColor=00f0ff&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/Git-0a0a0f?style=for-the-badge&logo=git&logoColor=00f0ff&labelColor=0a0a0f" />
+</div>
+
+<br/>
+
+### Technologies & Architectures Shipped
+Languages, platforms, and runtimes orchestrated across my 35+ shipped products:
+
+<div align="center">
   <img src="https://img.shields.io/badge/Python-0a0a0f?style=for-the-badge&logo=python&logoColor=00f0ff&labelColor=0a0a0f" />
   <img src="https://img.shields.io/badge/JavaScript-0a0a0f?style=for-the-badge&logo=javascript&logoColor=00f0ff&labelColor=0a0a0f" />
-  <img src="https://img.shields.io/badge/Windows_Systems-0a0a0f?style=for-the-badge&logo=windows11&logoColor=00f0ff&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/Windows_Win32-0a0a0f?style=for-the-badge&logo=windows11&logoColor=00f0ff&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/WebSockets-0a0a0f?style=for-the-badge&logo=socketdotio&logoColor=00f0ff&labelColor=0a0a0f" />
   <img src="https://img.shields.io/badge/HTML5-0a0a0f?style=for-the-badge&logo=html5&logoColor=00f0ff&labelColor=0a0a0f" />
   <img src="https://img.shields.io/badge/CSS3-0a0a0f?style=for-the-badge&logo=css3&logoColor=00f0ff&labelColor=0a0a0f" />
   <img src="https://img.shields.io/badge/SQL-0a0a0f?style=for-the-badge&logo=postgresql&logoColor=00f0ff&labelColor=0a0a0f" />
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/WebSockets-0a0a0f?style=for-the-badge&logo=socketdotio&logoColor=00f0ff&labelColor=0a0a0f" />
   <img src="https://img.shields.io/badge/Vercel-0a0a0f?style=for-the-badge&logo=vercel&logoColor=00f0ff&labelColor=0a0a0f" />
-  <img src="https://img.shields.io/badge/Git-0a0a0f?style=for-the-badge&logo=git&logoColor=00f0ff&labelColor=0a0a0f" />
   <img src="https://img.shields.io/badge/GitHub_Pages-0a0a0f?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0a0a0f" />
-  <img src="https://img.shields.io/badge/VS_Code-0a0a0f?style=for-the-badge&logo=visual-studio-code&logoColor=00f0ff&labelColor=0a0a0f" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-0a0a0f?style=for-the-badge&logo=github-copilot&logoColor=00f0ff&labelColor=0a0a0f" />
 </div>
 
 ---
