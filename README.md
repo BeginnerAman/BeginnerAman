@@ -38,16 +38,43 @@ The frontier reasoning models and agentic environments I command to architect an
 <br/>
 
 ### Technologies & Architectures Shipped
-Languages, platforms, and runtimes orchestrated across my 35+ shipped products:
+Production frameworks, system runtimes, and engineering libraries orchestrated across my 35+ shipped products:
 
 <div align="center">
+  <!-- Row 1: Application Frameworks & Runtimes -->
   <img src="https://img.shields.io/badge/Python-0a0a0f?style=for-the-badge&logo=python&logoColor=00f0ff&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/FastAPI-0a0a0f?style=for-the-badge&logo=fastapi&logoColor=00f0ff&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/Flask-0a0a0f?style=for-the-badge&logo=flask&logoColor=00f0ff&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/PySide6_(Qt6)-0a0a0f?style=for-the-badge&logo=qt&logoColor=00f0ff&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/React_%2F_Next.js-0a0a0f?style=for-the-badge&logo=react&logoColor=00f0ff&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/TypeScript-0a0a0f?style=for-the-badge&logo=typescript&logoColor=00f0ff&labelColor=0a0a0f" />
   <img src="https://img.shields.io/badge/JavaScript-0a0a0f?style=for-the-badge&logo=javascript&logoColor=00f0ff&labelColor=0a0a0f" />
-  <img src="https://img.shields.io/badge/Windows_Win32-0a0a0f?style=for-the-badge&logo=windows11&logoColor=00f0ff&labelColor=0a0a0f" />
+
+  <br/>
+
+  <!-- Row 2: Windows Low-Level Systems & Hardware -->
+  <img src="https://img.shields.io/badge/Windows_Win32_APIs-0a0a0f?style=for-the-badge&logo=windows11&logoColor=00f0ff&labelColor=0a0a0f" />
   <img src="https://img.shields.io/badge/WebSockets-0a0a0f?style=for-the-badge&logo=socketdotio&logoColor=00f0ff&labelColor=0a0a0f" />
-  <img src="https://img.shields.io/badge/HTML5-0a0a0f?style=for-the-badge&logo=html5&logoColor=00f0ff&labelColor=0a0a0f" />
-  <img src="https://img.shields.io/badge/CSS3-0a0a0f?style=for-the-badge&logo=css3&logoColor=00f0ff&labelColor=0a0a0f" />
-  <img src="https://img.shields.io/badge/SQL-0a0a0f?style=for-the-badge&logo=postgresql&logoColor=00f0ff&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/PyAudio_%26_VirtualCam-0a0a0f?style=for-the-badge&logo=obsstudio&logoColor=00f0ff&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/Hardware_Emulation_(PyAutoGUI)-0a0a0f?style=for-the-badge&logo=streamdeck&logoColor=00f0ff&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/Filesystem_Watchdog-0a0a0f?style=for-the-badge&logo=gnubash&logoColor=00f0ff&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/pywebview-0a0a0f?style=for-the-badge&logo=electron&logoColor=00f0ff&labelColor=0a0a0f" />
+
+  <br/>
+
+  <!-- Row 3: Data Systems, Document Engines & Cloud -->
+  <img src="https://img.shields.io/badge/SQL_%26_SQLAlchemy-0a0a0f?style=for-the-badge&logo=postgresql&logoColor=00f0ff&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/Pandas_%26_NumPy-0a0a0f?style=for-the-badge&logo=pandas&logoColor=00f0ff&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/Vector_PDF_(ReportLab)-0a0a0f?style=for-the-badge&logo=adobeacrobatreader&logoColor=00f0ff&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/Barcode_%26_EXIF_Engines-0a0a0f?style=for-the-badge&logo=databricks&logoColor=00f0ff&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/Firebase-0a0a0f?style=for-the-badge&logo=firebase&logoColor=00f0ff&labelColor=0a0a0f" />
+
+  <br/>
+
+  <!-- Row 4: Modern Interface & Deployment Platforms -->
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0a0a0f?style=for-the-badge&logo=tailwindcss&logoColor=00f0ff&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/PWA_(Offline_Installable)-0a0a0f?style=for-the-badge&logo=pwa&logoColor=00f0ff&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/HTML5_%26_CSS3-0a0a0f?style=for-the-badge&logo=html5&logoColor=00f0ff&labelColor=0a0a0f" />
   <img src="https://img.shields.io/badge/Vercel-0a0a0f?style=for-the-badge&logo=vercel&logoColor=00f0ff&labelColor=0a0a0f" />
   <img src="https://img.shields.io/badge/GitHub_Pages-0a0a0f?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0a0a0f" />
 </div>
